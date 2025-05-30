@@ -28,6 +28,17 @@
    - محیط گرافیکی روان و کاربرپسند
    - راهنمای فارسی جامع
 
+---
+
+## ✨ تصاویر برنامه
+
+![تصویر برنامه تبدیل فیلم ضبط شده به عکس تایم لپس](https://lh3.googleusercontent.com/d/1dNDB2YUTGP-mTQ-ORJ2Lv2v5HzzjEUXl)
+
+![تصویر برنامه تبدیل فیلم ضبط شده به عکس تایم لپس](https://lh3.googleusercontent.com/d/1iHaSd5lgdLAUG9hyBk28vSoUkJ8hNeOO)
+
+![تصویر برنامه تبدیل فیلم ضبط شده به عکس تایم لپس](https://lh3.googleusercontent.com/d/1xiemh-5A73m-10pCD5AHYrRSgO1R_SW6)
+
+
 ## ⬇️ دانلود نسخه دمو
 نسخه نمایشی با **محدودیت ۱۰ عکس** در هر اجرا:
 - [دانلود از صفحه محصول (Release)](https://github.com/intellsoft/convert-hikvision-dahua-hdd-film-to-timelapse-images/releases)
