@@ -29,7 +29,7 @@
 
 ## ⬇️ دانلود نسخه دمو
 نسخه نمایشی با **محدودیت ۱۰ عکس** در هر اجرا:
-- [دانلود از صفحه محصول (Release)](https://intellsoft.ir/product/time-lapse-software-with-cctv-playback-film/)
+- [دانلود از صفحه محصول (Release)](https://github.com/intellsoft/convert-hikvision-dahua-hdd-film-to-timelapse-images/releases)
 
 > 💡 توجه: نسخه کامل بدون محدودیت و با قابلیت ساخت ویدیو از طریق سایت در دسترس است
 
